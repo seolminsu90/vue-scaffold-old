@@ -1,4 +1,7 @@
-# Vue 관련 여러가지 scaffold 저장
+# Vue 관련 여러가지 scaffold 저장(이전 세대)
+<p>${\large{\color{#DD6565}아카이브 처리 후 신규 구축 시 참고만 하기}}$</p>
+
+---
 
 뷰 신규 프로젝트를 만들때 각 항목들을 부분적으로 참조해서 사용하는 용도.
 
@@ -10,13 +13,6 @@
 - SPA 라우터 설정
 - 공통 라이브러리들 (toast, datepicker, dayjs, xlsx 등등..)
 - Prettier / ESLint / editconfig
-
----
-# HISTORY
-
-## Nuxt3 버전의 scaffold 추가
-- 기본 상태 저장소로 pinia 사용 (vuex보다 훨씬 모듈링이 편하고 사용도 간편함)
-- 대부분 내부서비스 하느랴 SSR의 이점이 굳이 없긴 하지만 만들어놓음
 
 ---
 
